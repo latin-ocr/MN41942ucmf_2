@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "MN41942ucmf_2_0008.png"; bbox 0 0 2429 3416; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 212 529 1215 885">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 212 461 1215 885">
+     <span class='ocr_line' id='line_1_1' title="bbox 212 529 1215 885; baseline -0.012 -59"><span class='ocrx_word' id='word_1_1' title='bbox 212 534 744 885; x_wconf 75' lang='lat' dir='ltr'>WeisS‚</span> <span class='ocrx_word' id='word_1_2' title='bbox 811 529 1215 823; x_wconf 78' lang='lat' dir='ltr'>Chri</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 214 1464 1145 2218">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 214 1464 1145 2218">
+     <span class='ocr_line' id='line_1_2' title="bbox 214 1464 1095 1754; baseline 0 -5"><span class='ocrx_word' id='word_1_3' title='bbox 214 1481 440 1754; x_wconf 83' lang='lat' dir='ltr'>De</span> <span class='ocrx_word' id='word_1_4' title='bbox 497 1464 1095 1752; x_wconf 84' lang='lat' dir='ltr'>homine</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 220 1929 1145 2218; baseline -0.005 0"><span class='ocrx_word' id='word_1_5' title='bbox 220 1929 1145 2218; x_wconf 81' lang='lat' dir='ltr'><strong>submittente</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1220 3416">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1220 3416">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1220 3416; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 0 0 1220 3416; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 211 2863 1215 3235">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 211 2863 1215 3235">
+     <span class='ocr_line' id='line_1_5' title="bbox 211 2863 1215 3235; baseline -0.002 -84"><span class='ocrx_word' id='word_1_7' title='bbox 211 2863 841 3235; x_wconf 75' lang='lat' dir='ltr'>Lipsiae,</span> <span class='ocrx_word' id='word_1_8' title='bbox 918 2869 1215 3225; x_wconf 78' lang='lat'>[17</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
